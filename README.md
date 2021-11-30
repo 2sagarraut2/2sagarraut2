@@ -1,6 +1,6 @@
 # Hello World,
 
-<a href="https://www.linkedin.com/in/2sagarraut2" target="_blank">
+<a target="_blank" href="https://www.linkedin.com/in/2sagarraut2">
   <img align="left" alt="Sagar Raut - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="mailto:2sagarraut2@gmail.com?Subject=Hello, I would like to connect with you!" target="_blank">
