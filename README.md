@@ -14,6 +14,7 @@ I'm an Software Developer by profession.
 Technologies:
 - Javascript, React
 - C, Java
+- learning three.js
 
 Also interested in:
 - Digital Marketing, SEO, Wordpress
