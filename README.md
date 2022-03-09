@@ -1,9 +1,9 @@
 # Hello World,
 
-<a target="_blank" href="https://www.linkedin.com/in/2sagarraut2">
+<a target="_blank" rel="noopener" href="https://www.linkedin.com/in/2sagarraut2">
   <img align="left" alt="Sagar Raut - LinkedIn" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 </a>
-<a href="mailto:2sagarraut2@gmail.com?Subject=Hello, I would like to connect with you!" target="_blank">
+<a href="mailto:2sagarraut2@gmail.com?Subject=Hello, I would like to connect with you!" target="_blank" rel="noopener">
   <img align="left" alt="Sagar Raut - Gmail" width="40px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </a>
 <br />
