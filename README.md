@@ -1,10 +1,10 @@
 # Hello World,
 
 <a target="_blank" href="https://www.linkedin.com/in/2sagarraut2">
-  <img align="left" alt="Sagar Raut - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="left" alt="Sagar Raut - LinkedIn" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 </a>
 <a href="mailto:2sagarraut2@gmail.com?Subject=Hello, I would like to connect with you!" target="_blank">
-  <img align="left" alt="Sagar Raut - Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
+  <img align="left" alt="Sagar Raut - Gmail" width="40px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </a>
 <br />
 <br />
