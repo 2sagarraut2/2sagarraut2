@@ -13,7 +13,7 @@ I'm an Software Developer by profession.
 
 Technologies:
 - Javascript, ReactJS
-- C, Java
+- C, Java, MySQL
 - learning three.js
 
 Also interested in:
