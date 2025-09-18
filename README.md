@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dr. In A Way (Personal Healthcare companion)<br>👯 I’m looking to collaborate on everything I can be help of<br>🤝 I’m looking for help with learning Backend<br>🌱 I’m currently learning NodeJS<br>💬 Ask me about ReactJS
+🔭 I’m currently working on StockPilot<br>👯 I’m looking to collaborate on everything I can be help of<br>🤝 I’m looking for help with learning Backend<br>🌱 I’m currently learning NodeJS<br>💬 Ask me about ReactJS
 
 
 ## 🌐 Socials:
